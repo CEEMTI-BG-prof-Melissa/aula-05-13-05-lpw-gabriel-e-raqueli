@@ -11,7 +11,17 @@
       <p>
       Senha: <input type="password"
       </p>
-      <button > 
+      <input type="button" value="entrar">
+    </form>
+    <form>
+      <h1> Formulario com método POST </h1>
+      <p>
+      Login: <input type="text">
+      </p>
+      <p>
+      Senha: <input type="password"
+      </p>
+      <input type="button" value="entrar">
     </form>
   </body>
 </html>
