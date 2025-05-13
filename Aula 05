@@ -1,0 +1,17 @@
+<html>
+  <head>
+    <title> Aula 05 </title>
+  </head>
+  <body>
+    <form>
+      <h1> Formulario com método GET </h1>
+      <p>
+      Loin: <input type="text">
+      </p>
+      <p>
+      Senha: <input type="password"
+      </p>
+      <button > 
+    </form>
+  </body>
+</html>
