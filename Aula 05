@@ -6,7 +6,7 @@
     <form>
       <h1> Formulario com método GET </h1>
       <p>
-      Loin: <input type="text">
+      Login: <input type="text">
       </p>
       <p>
       Senha: <input type="password"
